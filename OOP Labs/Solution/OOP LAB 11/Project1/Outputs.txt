@@ -1,0 +1,16 @@
+//Exercise 1 c:
+//We are not getting error after removing <int> and <long> 
+//Because GetMax and GetMin are functions not classes whereas classes must require data type.
+//Exercise 1 d:
+//Output is 90 and 6.
+//Exercise 1 e:
+//We are not getting error because of the same reason as told above.
+
+//Exercise2 Ouput: 1.01234
+
+//Exercise3 Output: 8 and J
+
+//Exercise4 Output: 100 and 3.1416
+
+//Exercise 5 Ouput:Value 1= 2.23
+	//Value 2 = 3.45
